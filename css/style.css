@@ -43,7 +43,6 @@ h1 {
   border: none;
   border-bottom: 1px solid rgb(4, 122, 233);
   background: transparent;
-  outline: solid;
   height: 40px;
   color: #fff;
   font-size: 16px;
@@ -53,7 +52,7 @@ h1 {
   width: 200px;
   height: 40px;
   background: blue;
-  color: #fff;
+  color: #000;
   font-size: 18px;
   margin-top: 50px;
   margin-left: 240px;
