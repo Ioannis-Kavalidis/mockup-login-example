@@ -44,7 +44,7 @@ h1 {
   border-bottom: 1px solid rgb(4, 122, 233);
   background: transparent;
   height: 40px;
-  color: #fff;
+  color: black;
   font-size: 16px;
 }
 .sign_in_box input[type="submit"] {
@@ -52,7 +52,7 @@ h1 {
   width: 200px;
   height: 40px;
   background: blue;
-  color: #000;
+  color: white;
   font-size: 18px;
   margin-top: 50px;
   margin-left: 240px;
